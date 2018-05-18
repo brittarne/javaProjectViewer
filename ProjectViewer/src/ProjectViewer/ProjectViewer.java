@@ -14,6 +14,7 @@ public class ProjectViewer extends Application{
         primaryStage.setTitle("Better Project Viewer");
         primaryStage.setScene(new Scene(root, 920, 400));
         primaryStage.show();
+        //testing github
     }
 
 
